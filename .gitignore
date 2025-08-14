@@ -1,0 +1,5 @@
+# Data folder
+data/
+
+# VS Code workspace file
+*.code-workspace
